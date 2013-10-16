@@ -1,0 +1,11 @@
+C:\_projects\UgTail3\bin\Debug\UgTail3.exe
+C:\_projects\UgTail3\bin\Debug\UgTail3.pdb
+C:\_projects\UgTail3\obj\x86\Debug\MainWindow.baml
+C:\_projects\UgTail3\obj\x86\Debug\MainWindow.g.cs
+C:\_projects\UgTail3\obj\x86\Debug\App.g.cs
+C:\_projects\UgTail3\obj\x86\Debug\UgTail3_MarkupCompile.cache
+C:\_projects\UgTail3\obj\x86\Debug\UgTail3.g.resources
+C:\_projects\UgTail3\obj\x86\Debug\UgTail3.Properties.Resources.resources
+C:\_projects\UgTail3\obj\x86\Debug\UgTail3.csproj.GenerateResource.Cache
+C:\_projects\UgTail3\obj\x86\Debug\UgTail3.exe
+C:\_projects\UgTail3\obj\x86\Debug\UgTail3.pdb
