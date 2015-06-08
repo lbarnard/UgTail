@@ -5,6 +5,6 @@
     <Grid>
         <TextBox Height="23" HorizontalAlignment="Left" Name="txtFile" VerticalAlignment="Top" Width="388" />
         <Button Content="Select File..." Height="23" HorizontalAlignment="Right" Margin="0,-1,0,0" Name="button1" VerticalAlignment="Top" Width="109" Click="button1_Click" />
-        <ListBox Name="listBox1" Height="282" VerticalAlignment="Bottom" />
+        <ListBox Name="listBox1" Margin="0,29,0,0" />
     </Grid>
 </Window>
